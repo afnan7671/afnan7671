@@ -1,148 +1,256 @@
-<h1 align="center">Hi there, I'm MD Abdul Afnan 👋</h1>
-<h3 align="center">Full Stack Developer | AI/ML Enthusiast | Salesforce Certified | Aspiring Cybersecurity Professional</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C4FF&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;Java+%26+Python+Developer;AI+%26+Machine+Learning+Enthusiast;Salesforce+Platform+Developer+I;Aspiring+Penetration+Tester;Always+Learning+New+Technologies" alt="Typing SVG" />
-</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=shark&color=0A0F08&fontColor=CAFF3C&text=%3E_%20MD.%20ABDUL%20AFNAN&fontSize=38&desc=Full+Stack+Developer+%7C+Java+%26+OOP+Fundamentals&descColor=8AFF57&animation=fadeIn" />
 
-<p align="center">
-  <a href="https://linkedin.com/in/md-abdul-afnan-b0b9ba2a6"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:abdulafnan7671@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://github.com/afnan7671"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=CAFF3C&center=true&vCenter=true&width=820&lines=%24+whoami+%E2%86%92+CSE+Student+%40+MLR+Institute+of+Technology;%24+skills+%E2%86%92+Java+%7C+React+%7C+Node.js+%7C+Python;%24+shipped+%E2%86%92+4+full-stack+projects+%7C+AWS+%2B+GCP+deployed;%24+cat+open-to.txt+%E2%86%92+Java+Full+Stack+Developer+%2F+Trainee+roles" />
 
-<p align="center">📍 Hyderabad, India &nbsp;|&nbsp; 📞 +91-7671812373</p>
+</div>
 
-<p align="center">
-  <a href="https://github.com/afnan7671"><img src="https://img.shields.io/github/followers/afnan7671?style=for-the-badge&logo=github&label=Followers&color=blue"/></a>
-  <a href="https://github.com/afnan7671"><img src="https://img.shields.io/github/stars/afnan7671?style=for-the-badge&logo=github&label=Stars&color=yellow"/></a>
-  <img src="https://komarev.com/ghpvc/?username=afnan7671&label=Profile%20Views&color=blueviolet&style=for-the-badge"/>
-</p>
+<div align="center">
 
----
+![Degree](https://img.shields.io/badge/Degree-B.Tech_CSE-0A0F08?style=flat-square&labelColor=0A0F08&color=CAFF3C)
+![University](https://img.shields.io/badge/University-MLR_Institute_of_Technology-0A0F08?style=flat-square&labelColor=0A0F08&color=8AFF57)
+![Location](https://img.shields.io/badge/Location-Hyderabad,_India-0A0F08?style=flat-square&labelColor=0A0F08&color=CAFF3C)
 
-## 💫 About Me
+</div>
 
-- 🎓 B.Tech in **Computer Science & Engineering** at MLR Institute of Technology, Hyderabad — CGPA **8.43/10**
-- 💻 Full Stack Developer who has shipped four end-to-end projects — React/TypeScript, Node.js/Express, REST APIs, JWT auth, and cloud deployment on AWS EC2 & Google Cloud Run
-- ⚡ Fast learner already shipping production-style builds with AI-assisted tools (Gemini API, Google AI Studio)
-- 🤖 Deeply interested in **Artificial Intelligence, Machine Learning, and Cloud Computing**
-- 🛡️ Career goal: **Cybersecurity — Penetration Testing**, actively building offensive-security skills alongside development
-- 🏆 **Salesforce Platform Developer I** certified, with additional certs from **AWS, Cisco, Deloitte, NPTEL, and Forage**
-- 🎤 Public speaking experience including keynote presentations and inter-college debate competitions
-- 🌱 Currently deepening my skills in:
-  - Spring Boot & Advanced Java
-  - System Design
-  - Cloud-Native Development
-  - Offensive Security / Penetration Testing fundamentals
-- 🚀 I love turning real-world problems into working products — from AI-powered social platforms to medical recommendation systems
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A0F08?style=for-the-badge&logo=linkedin&logoColor=CAFF3C&color=0A0F08)](https://www.linkedin.com/in/md-abdul-afnan-b0b9ba2a6)
+[![Email](https://img.shields.io/badge/Email-0A0F08?style=for-the-badge&logo=gmail&logoColor=CAFF3C&color=0A0F08)](mailto:abdulafnan7671@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-0A0F08?style=for-the-badge&logo=github&logoColor=CAFF3C&color=0A0F08)](https://github.com/afnan7671)
+
+</div>
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=afnan7671&color=CAFF3C&style=flat-square&label=PROFILE+VIEWS)
+![Followers](https://img.shields.io/github/followers/afnan7671?style=flat-square&color=8AFF57&labelColor=0A0F08&logo=github)
+![Stars](https://img.shields.io/github/stars/afnan7671?style=flat-square&color=CAFF3C&labelColor=0A0F08&logo=github)
+
+</div>
 
 ---
 
-## 🚀 Featured Projects
+## `> whoami`
 
-### 🌐 [Connectify](https://github.com/afnan7671/connectify) — AI-Powered Social Media Platform
-🔗 Live: https://connectify.ai.studio
-A full-stack social media platform with Gemini-powered intelligence baked into the core experience.
-- **Stack:** React 19, TypeScript, Express.js, JWT + bcrypt Auth, Google OAuth, Gemini API
-- Architected an Instagram-style platform (feeds, stories, reels, DMs) with role-gated access across admin, moderator, and user roles
-- Integrated Gemini API for AI captions, hashtag suggestions, toxicity/spam detection, and smart search — across 15+ REST endpoints
+Computer Science & Engineering student (CGPA 8.43) with strong Java and OOP fundamentals and a track record of shipping four full-stack projects end-to-end — React, TypeScript, Node.js/Express, REST APIs, JWT authentication, and cloud deployment on AWS EC2 and Google Cloud Run. A fast learner who has already picked up and shipped with AI-assisted development tools (Gemini API, Google AI Studio) in production-style builds, plus a Salesforce Platform Developer I certification.
 
-### 🛒 [ShopEase](https://github.com/afnan7671/shopease) — Full Stack E-Commerce Marketplace
-A glassmorphism-styled, dual-sided marketplace for sellers and customers.
-- **Stack:** React 19, TypeScript, Node.js/Express, Firebase Firestore, Google Cloud Run
-- Dual-role customer/seller marketplace with real-time Firestore-backed order status updates
-- REST APIs for auth, products, orders, cart, and wishlist, with Nodemailer/SMTP order-alert emails and containerized deployment
+```bash
+$ cat .profile
 
-### 🚛 [Smart LoadMate](https://github.com/afnan7671/LoadMate-App) — AI-Assisted Driver Load Matching Platform
-A logistics platform connecting drivers with loads using live location intelligence.
-- **Stack:** React Native (Expo), Python FastAPI, MongoDB, Firebase, Google Maps API
-- Matches drivers with compatible loads by vehicle capacity and location, reducing empty return trips
-- Real-time GPS tracking via Firebase, route optimization with Dijkstra's and A* algorithms, OTP-based auth
-- Built as a 4-member CSE team project at MLR Institute of Technology
-
-### 🏥 Doc Assist — AI Medical Recommendation System
-An ML-driven system for doctor recommendations and disease prediction, deployed on the cloud.
-- **Stack:** Python, TensorFlow, Pandas, Scikit-learn, AWS EC2
-- AI-driven doctor-recommendation engine processing 500+ doctor profiles at 87% symptom-classification accuracy
-- Deployed on AWS EC2 with 99.5% uptime over a 3-month pilot
-
-### 🩸 Blood Link & 🏷️ Care Mark
-Community and healthcare-focused platforms — including an NGO resource-coordination system built to connect organizations with the people they serve.
-
-### 🔌 Wi-Fi Door Lock — IoT Security System
-A Wi-Fi-controlled smart door lock project, blending embedded systems with practical access-control security.
+ROLE     =  Full Stack Developer (Java & OOP Fundamentals)
+EXP      =  Student — 4 shipped full-stack projects
+DOMAIN   =  Full-Stack Development | AI/ML | Cybersecurity
+STACK    =  Java | React | Node.js | Python | TypeScript
+OPEN_TO  =  Java Full Stack Developer / Trainee roles
+```
 
 ---
 
-## 💻 Tech Stack
+## `> ls tech-stack/`
 
 **Languages**
-<p><img src="https://skillicons.dev/icons?i=java,python,c,cpp,js,ts,php,r,html,css"/></p>
+![Skills](https://skillicons.dev/icons?i=java,python,c,cpp,js,ts,php&theme=dark)
 
-**Frontend**
-<p><img src="https://skillicons.dev/icons?i=react,tailwind,html,css,js,ts"/></p>
+**Frontend & Backend**
+![Skills](https://skillicons.dev/icons?i=react,nodejs,express,html,css,tailwind,firebase&theme=dark)
 
-**Backend**
-<p><img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,php"/></p>
-
-**Database**
-<p><img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase"/></p>
-
-**Cloud & DevOps**
-<p><img src="https://skillicons.dev/icons?i=aws,gcp,docker,jenkins,git,githubactions"/></p>
-
-**AI / ML**
-<p>
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Matplotlib-black?style=for-the-badge"/>
-</p>
-
-**Tools**
-<p><img src="https://skillicons.dev/icons?i=vscode,postman,maven,idea,figma"/></p>
+**Cloud, Data & Tools**
+![Skills](https://skillicons.dev/icons?i=aws,gcp,mongodb,git,github,githubactions,tensorflow&theme=dark)
 
 ---
 
-## 🏆 Certifications
+## `> cat specialties.txt`
 
-| Certification | Issuer |
-|---|---|
-| [Salesforce Platform Developer I](https://drive.google.com/file/d/1CigWnaWdggsggkH9iII78Uzpak1yK7Ur/view?usp=drivesdk) | Salesforce |
-| [Cloud Computing](https://drive.google.com/file/d/1zPGm8BnZBINbi3qKb95NYeMv0-V82Mn8/view?usp=drivesdk) | NPTEL |
-| [Full Stack Development Internship](https://drive.google.com/file/d/1kXlier28-1GFQgsQn7mMPoZ6YUVd4YPT/view?usp=drivesdk) | CodeAlpha |
-| Data Analytics Essentials | Cisco |
-| Data Visualization and Recognition | Deloitte |
-| AWS Training Certificate | AWS |
-| Solutions Architect Job Simulation | Forage |
+<div align="center">
 
----
+![Full Stack](https://img.shields.io/badge/Full--Stack_Delivery-React_%7C_Node_%7C_REST-0A0F08?style=flat-square&color=CAFF3C&labelColor=0A0F08)
+![Security](https://img.shields.io/badge/App_Security-JWT_%7C_bcrypt_%7C_RBAC-0A0F08?style=flat-square&color=8AFF57&labelColor=0A0F08)
+![AI](https://img.shields.io/badge/AI--Assisted_Dev-Gemini_API_%7C_Google_AI_Studio-0A0F08?style=flat-square&color=CAFF3C&labelColor=0A0F08)
+![Cloud](https://img.shields.io/badge/Cloud_Deployment-AWS_EC2_%7C_GCP_Cloud_Run-0A0F08?style=flat-square&color=8AFF57&labelColor=0A0F08)
+![Salesforce](https://img.shields.io/badge/Salesforce-Platform_Dev_I_Certified-0A0F08?style=flat-square&color=CAFF3C&labelColor=0A0F08)
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <a href="https://github.com/afnan7671"><img src="https://img.shields.io/github/followers/afnan7671?style=for-the-badge&logo=github&label=Followers&color=blue"/></a>
-  <a href="https://github.com/afnan7671"><img src="https://img.shields.io/github/stars/afnan7671?style=for-the-badge&logo=github&label=Stars&color=yellow"/></a>
-  <img src="https://komarev.com/ghpvc/?username=afnan7671&label=Profile%20Views&color=blueviolet&style=for-the-badge"/>
-</p>
-
-> Live GitHub stat cards (commits, streaks, top languages) can be added back once you confirm `github-readme-stats.vercel.app` renders for you — those widgets are hosted on a third-party service that's frequently rate-limited or down, which is likely why they weren't showing. If you want them, I can re-add with a fallback service, or you can regenerate your own at [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) and swap the URL in once it loads correctly in your browser.
+</div>
 
 ---
 
-## 💡 Quote
+## `> cat expertise.md`
 
-> *"Code is not just about solving problems; it's about creating possibilities."*
+| Domain | Proficiency | Details |
+|---|---|---|
+| Full-Stack Web Development | Strong | React 19, TypeScript, Node.js/Express — shipped across 3 production-style apps |
+| Cloud Deployment | Working | AWS EC2 and Google Cloud Run, containerized deployment |
+| AI/ML Integration | Growing | Gemini API integration; TensorFlow model at 87% symptom-classification accuracy |
+| Authentication & Security | Strong | JWT sessions, bcrypt hashing, RBAC, Google OAuth |
+| Mobile Development | Working | React Native (Expo) — driver/load matching app |
+| Salesforce Development | Certified | Salesforce Platform Developer I |
 
 ---
 
-<p align="center">
-  <b>⭐ If you like what I build, consider starring my repositories — it genuinely helps! ⭐</b>
-</p>
+## `> ls -la featured-projects/`
 
-<p align="center">
-  <i>📫 Reach me at <a href="mailto:abdulafnan7671@gmail.com">abdulafnan7671@gmail.com</a> or connect on <a href="https://linkedin.com/in/md-abdul-afnan-b0b9ba2a6">LinkedIn</a></i>
-</p>
+<details open>
+<summary><b>Connectify — AI-Powered Social Media Platform</b></summary>
+<br>
+
+> Full-stack, Instagram-style social platform (feeds, stories, reels, direct messaging) with secure JWT/OAuth auth, role-gated access control, and Gemini API-powered AI features across 15+ REST endpoints.
+
+| Stack | Scale | Impact |
+|---|---|---|
+| React 19, TypeScript, Express, Gemini API, JWT/OAuth | 15+ REST endpoints (auth, posts, users, messaging) | AI caption generation, hashtag suggestions, toxicity/spam detection, smart search |
+
+🔗 [github.com/afnan7671/connectify](https://github.com/afnan7671/connectify)
+
+</details>
+
+<details>
+<summary><b>ShopEase — Full-Stack E-Commerce Marketplace</b></summary>
+<br>
+
+> Dual-role customer/seller marketplace covering catalogue browsing, cart, wishlist, checkout, and order tracking, with a seller dashboard for real-time inventory management.
+
+| Stack | Scale | Impact |
+|---|---|---|
+| React 19, TypeScript, Node.js/Express, Firebase Firestore | REST APIs for auth, products, orders, cart, wishlist | Real-time Firestore order updates, Nodemailer/SMTP alerts, production deployment on Google Cloud Run |
+
+🔗 [github.com/afnan7671/shopease](https://github.com/afnan7671/shopease)
+
+</details>
+
+<details>
+<summary><b>Smart LoadMate — AI-Assisted Driver-Load Matching & Logistics App</b></summary>
+<br>
+
+> Mobile logistics platform matching drivers with compatible loads by vehicle capacity and location, reducing empty return trips — built as a 4-member CSE team project.
+
+| Stack | Scale | Impact |
+|---|---|---|
+| React Native (Expo), Python FastAPI, MongoDB, Firebase | Real-time GPS tracking, route optimization (Dijkstra's & A*) | OTP-based secure auth, Google Maps API integration |
+
+🔗 [github.com/afnan7671/LoadMate-App](https://github.com/afnan7671/LoadMate-App)
+
+</details>
+
+<details>
+<summary><b>Doc Assist — Medical Recommendation App</b></summary>
+<br>
+
+> AI-driven doctor-recommendation engine processing 500+ doctor profiles, deployed on AWS EC2 with a 3-month pilot.
+
+| Stack | Scale | Impact |
+|---|---|---|
+| Python, TensorFlow, Pandas, Scikit-Learn, AWS EC2 | 500+ doctor profiles processed | 87% symptom-classification accuracy, 99.5% uptime over 3-month pilot |
+
+</details>
+
+---
+
+## `> cat achievements.md`
+
+<div align="center">
+
+| Achievement | Detail |
+|:---:|:---:|
+| 🎓 CGPA 8.43 / 10.0 | B.Tech, Computer Science & Engineering |
+| 🎯 87% Accuracy | Doc Assist symptom-classification model, 500+ profiles |
+| ⏱️ 99.5% Uptime | Doc Assist AWS EC2 deployment, 3-month pilot |
+| 🔌 15+ REST Endpoints | Connectify — auth, posts, users, messaging |
+| ✅ Certified | Salesforce Platform Developer I |
+
+</div>
+
+---
+
+## `> cat education.txt`
+
+<div align="center">
+
+![Education](https://img.shields.io/badge/B.Tech_Computer_Science_%26_Engineering-MLR_Institute_of_Technology-0A0F08?style=for-the-badge&color=CAFF3C&labelColor=0A0F08&logo=googlescholar&logoColor=CAFF3C)
+
+</div>
+
+---
+
+## `> ./run analytics.sh`
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=afnan7671&show_icons=true&hide_border=true&title_color=CAFF3C&icon_color=8AFF57&text_color=E8F5E1&bg_color=0A0F08" />
+
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=afnan7671&hide_border=true&background=0A0F08&stroke=CAFF3C&ring=8AFF57&fire=CAFF3C&currStreakLabel=CAFF3C&sideLabels=E8F5E1&currStreakNum=E8F5E1&sideNums=E8F5E1&dates=8AFF57" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=afnan7671&layout=compact&hide_border=true&title_color=CAFF3C&text_color=E8F5E1&bg_color=0A0F08" />
+
+</div>
+
+## `> ./trophies.sh`
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=afnan7671&theme=onedark&row=1&column=7&margin-w=8&margin-h=8" />
+
+</div>
+
+## `> ./activity-graph.sh`
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=afnan7671&bg_color=0A0F08&color=CAFF3C&line=CAFF3C&point=8AFF57&area=true&hide_border=true" />
+
+</div>
+
+## `> ./summary-cards.sh`
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details.svg?username=afnan7671&theme=github_dark" width="100%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language.svg?username=afnan7671&theme=github_dark" width="48%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language.svg?username=afnan7671&theme=github_dark" width="48%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats.svg?username=afnan7671&theme=github_dark" width="48%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time.svg?username=afnan7671&theme=github_dark&utcOffset=5.5" width="48%" />
+
+</div>
+
+## `> ./snake.sh`
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/afnan7671/afnan7671/output/github-contribution-grid-snake-dark.svg" width="100%" />
+
+</div>
+
+---
+
+## `> cat current-focus.yaml`
+
+```yaml
+learning:
+  - Spring Boot
+  - Enterprise Java
+  - Cloud-native development
+
+building:
+  - Connectify   # AI-powered social platform, React 19 + Gemini API
+  - ShopEase     # Full-stack e-commerce marketplace on Google Cloud Run
+
+open_to:
+  - Java Full Stack Developer / Trainee roles
+```
+
+---
+
+## `> ./connect.sh`
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A0F08?style=for-the-badge&logo=linkedin&logoColor=CAFF3C&color=0A0F08)](https://www.linkedin.com/in/md-abdul-afnan-b0b9ba2a6)
+[![Email](https://img.shields.io/badge/Email-0A0F08?style=for-the-badge&logo=gmail&logoColor=CAFF3C&color=0A0F08)](mailto:abdulafnan7671@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-0A0F08?style=for-the-badge&logo=github&logoColor=CAFF3C&color=0A0F08)](https://github.com/afnan7671)
+
+*"$ echo 'still compiling, still shipping'"*
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0A0F08&height=100&section=footer" />
+
+</div>
+  
