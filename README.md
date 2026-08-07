@@ -1,8 +1,8 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=shark&color=0A0F08&fontColor=CAFF3C&text=%3E_%20MD.%20ABDUL%20AFNAN&fontSize=38&desc=Full+Stack+Developer+%7C+Java+%26+OOP+Fundamentals&descColor=8AFF57&animation=fadeIn" />
+# `>_ MD. ABDUL AFNAN`
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=CAFF3C&center=true&vCenter=true&width=820&lines=%24+whoami+%E2%86%92+CSE+Student+%40+MLR+Institute+of+Technology;%24+skills+%E2%86%92+Java+%7C+React+%7C+Node.js+%7C+Python;%24+shipped+%E2%86%92+4+full-stack+projects+%7C+AWS+%2B+GCP+deployed;%24+cat+open-to.txt+%E2%86%92+Java+Full+Stack+Developer+%2F+Trainee+roles" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=CAFF3C&center=true&vCenter=true&width=820&lines=Python+Developer;Full+Stack+Developer;Java+%26+OOP+Fundamentals;Java+%7C+Python+%7C+React+%7C+Node.js+%7C+TypeScript;AWS+%7C+Google+Cloud+Run+%7C+Firebase;Building+Connectify+%26+ShopEase" />
 
 <br>
 
@@ -236,4 +236,4 @@ open_to:
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0A0F08&height=100&section=footer" />
 
-  </div>
+</div>
