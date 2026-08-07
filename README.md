@@ -4,6 +4,10 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=CAFF3C&center=true&vCenter=true&width=820&lines=%24+whoami+%E2%86%92+CSE+Student+%40+MLR+Institute+of+Technology;%24+skills+%E2%86%92+Java+%7C+React+%7C+Node.js+%7C+Python;%24+shipped+%E2%86%92+4+full-stack+projects+%7C+AWS+%2B+GCP+deployed;%24+cat+open-to.txt+%E2%86%92+Java+Full+Stack+Developer+%2F+Trainee+roles" />
 
+<br>
+
+<img src="assets/profile.png" width="180" alt="MD. Abdul Afnan" />
+
 </div>
 
 <div align="center">
@@ -200,26 +204,6 @@ OPEN_TO  =  Java Full Stack Developer / Trainee roles
 
 </div>
 
-## `> ./summary-cards.sh`
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details.svg?username=afnan7671&theme=github_dark" width="100%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language.svg?username=afnan7671&theme=github_dark" width="48%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language.svg?username=afnan7671&theme=github_dark" width="48%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats.svg?username=afnan7671&theme=github_dark" width="48%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time.svg?username=afnan7671&theme=github_dark&utcOffset=5.5" width="48%" />
-
-</div>
-
-## `> ./snake.sh`
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/afnan7671/afnan7671/output/github-contribution-grid-snake-dark.svg" width="100%" />
-
-</div>
-
 ---
 
 ## `> cat current-focus.yaml`
@@ -253,4 +237,3 @@ open_to:
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0A0F08&height=100&section=footer" />
 
 </div>
-  
