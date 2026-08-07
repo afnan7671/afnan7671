@@ -239,3 +239,12 @@ open_to:
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0A0F08&height=100&section=footer" />
 
 </div>
+
+
+
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/afnan7671/afnan7671/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/afnan7671/afnan7671/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/afnan7671/afnan7671/output/github-contribution-grid-snake.svg">
+</picture>
