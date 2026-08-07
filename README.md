@@ -1,14 +1,12 @@
 <div align="center">
 
-<img src="assets/banner.svg" alt="MD. Abdul Afnan — Full Stack Developer | Java & OOP Fundamentals" width="820" />
+# `>_ MD. ABDUL AFNAN`
 
-<img src="assets/typing.svg" alt="Python Developer | Full Stack Developer | Java & OOP Fundamentals" />
+`Python Developer | Full Stack Developer | Java & OOP Fundamentals`
 
 </div>
 
-<div align="center">
-<img src="assets/divider.svg" width="100%" />
-</div>
+---
 
 <div align="center">
 
@@ -176,9 +174,7 @@ OPEN_TO  =  Java Full Stack Developer / Trainee roles
 
 ---
 
-<div align="center">
-<img src="assets/divider.svg" width="100%" />
-</div>
+---
 
 ## `> ./run analytics.sh`
 
@@ -228,9 +224,7 @@ open_to:
 
 ---
 
-<div align="center">
-<img src="assets/divider.svg" width="100%" />
-</div>
+---
 
 ## `> ./connect.sh`
 
@@ -245,4 +239,3 @@ open_to:
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0A0F08&height=100&section=footer" />
 
 </div>
-
