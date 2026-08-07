@@ -2,11 +2,7 @@
 
 # `>_ MD. ABDUL AFNAN`
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=CAFF3C&center=true&vCenter=true&width=820&lines=Python+Developer;Full+Stack+Developer;Java+%26+OOP+Fundamentals;Java+%7C+Python+%7C+React+%7C+Node.js+%7C+TypeScript;AWS+%7C+Google+Cloud+Run+%7C+Firebase;Building+Connectify+%26+ShopEase" />
-
-<br>
-
-<img src="assets/profile.png" width="180" alt="MD. Abdul Afnan" />
+`Python Developer | Full Stack Developer | Java & OOP Fundamentals`
 
 </div>
 
